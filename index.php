@@ -3,6 +3,7 @@
 /**
  *      wuxin
  * this is the first git file
+ * This is master branch
  */
 
  say("hello world!"); 
@@ -11,3 +12,4 @@
 	 print_r($string);
 	 return true;
  }
+ 
