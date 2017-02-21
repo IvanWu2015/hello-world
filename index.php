@@ -5,4 +5,9 @@
  * this is the first git file
  */
 
- echo "hello world!";
+ say("hello world!"); 
+ 
+ function say($string) {
+	 print_r($string);
+	 return true;
+ }
